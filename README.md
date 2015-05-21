@@ -1,4 +1,4 @@
-# VuFind-Design-Architecture
+# VuFind - Design & Architecture
 Software moduling - VuFind Design &amp; Architecture course project
 
 #Additional Resources
